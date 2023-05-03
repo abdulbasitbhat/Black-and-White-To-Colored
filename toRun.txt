@@ -1,0 +1,31 @@
+installed ngrok.
+open it using file explorer not start.
+
+write ngrok.exe http 80
+
+run flask app on 80 port
+
+copy the link on ngrok terminal. Done
+
+
+what i did
+learnt html input methods
+leant to connect html forms and flask. 
+learnt to post using form
+learnt to redirect, use post data using flask
+learnt to use any python code and create an api like page
+learnt directory structure to store images
+rendered a new page on submit that just displays new image saved in images file named as colored always
+learnt ngrok
+set the port of flask to 80
+run ngrok
+run flask app
+
+didnt learn till now.
+flow of the zang code
+
+distributed computing, my laptop acts as server, and phone as client
+i sent image from my phone to laptop for computer intensive data
+
+this project was a benchmark. I can now anytime use this knowledge to build any powerful python site.
+and host it on my laptop.
